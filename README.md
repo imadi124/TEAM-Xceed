@@ -27,7 +27,5 @@ Load Request Success |  Deposit Schemes
 ![Load Request Success](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(26).png) |  ![Deposit Schemes](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(28).png)
 
 
-Silver deposit Scheme |  Meet Our Team
-:-------------------------:|:-------------------------:
-![Load Request Success](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(30).png) |  ![Deposit Schemes](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(34).png)
+
 
